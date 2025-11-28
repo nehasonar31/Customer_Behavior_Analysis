@@ -1,6 +1,6 @@
 Customer Shopping Behavior Analysis
-📌 Overview
 
+📌 Overview
 This project analyzes customer shopping patterns to uncover insights such as product popularity, revenue trends, customer segments, and subscription behavior. The workflow includes data processing in Python, analytical querying in MS SQL, and visualization through Power BI.
 
 📂 Dataset
