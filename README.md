@@ -17,37 +17,37 @@ This project analyzes customer shopping patterns to uncover insights such as pro
 - Git / GitHub — version control
 
 ## Steps Performed
-### 1. Data Loading & Inspection (Python)
-Imported dataset using pandas  
-Reviewed structure with df.info() and df.describe()  
-Checked and handled missing data  
+1. Data Loading & Inspection (Python)
+- Imported dataset using pandas  
+- Reviewed structure with df.info() and df.describe()  
+- Checked and handled missing data  
 
 2. Data Cleaning & Feature Engineering
-Imputed missing review ratings
-Standardized column names to snake_case
-Created age_group segmentation
-Organized purchase frequency and repeat buyer indicators
+- Imputed missing review ratings
+- Standardized column names to snake_case
+- Created age_group segmentation
+- Organized purchase frequency and repeat buyer indicators
 
 3. Database Integration
-Loaded the cleaned dataset into MS SQL Server from Python
-Utilized Windows authentication connection
-Created SQL table for customer data
+- Loaded the cleaned dataset into MS SQL Server from Python
+- Utilized Windows authentication connection
+- Created SQL table for customer data
 
 4. SQL Analysis (Business Queries)
-Revenue by gender
-Top rated products
-Subscription vs spending
-Discount-dependent products
-Age-group revenue contribution
-Repeat customers & loyalty behavior
+- Revenue by gender
+- Top rated products
+- Subscription vs spending
+- Discount-dependent products
+- Age-group revenue contribution
+- Repeat customers & loyalty behavior
 
 5. Dashboard in Power BI
-Built interactive dashboard with:
-Revenue by category
-Spend by shipping type
-Customer segmentation
-Average review scores
-Subscription breakdown
+- Built interactive dashboard with:
+- Revenue by category
+- Spend by shipping type
+- Customer segmentation
+- Average review scores
+- Subscription breakdown
 
 <img width="1199" height="550" alt="Dashboard" src="https://github.com/user-attachments/assets/39f95941-f877-4b3c-a638-2a3d2ad792e7" />
 
