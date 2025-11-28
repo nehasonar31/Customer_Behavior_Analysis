@@ -17,10 +17,10 @@ This project analyzes customer shopping patterns to uncover insights such as pro
 - Git / GitHub — version control
 
 ## Steps Performed
-1. Data Loading & Inspection (Python)
-Imported dataset using pandas
-Reviewed structure with df.info() and df.describe()
-Checked and handled missing data
+### 1. Data Loading & Inspection (Python)
+Imported dataset using pandas  
+Reviewed structure with df.info() and df.describe()  
+Checked and handled missing data  
 
 2. Data Cleaning & Feature Engineering
 Imputed missing review ratings
