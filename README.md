@@ -1,7 +1,9 @@
 Customer Shopping Behavior Analysis
 
 📌 Overview
+
 This project analyzes customer shopping patterns to uncover insights such as product popularity, revenue trends, customer segments, and subscription behavior. The workflow includes data processing in Python, analytical querying in MS SQL, and visualization through Power BI.
+
 
 📂 Dataset
 
@@ -12,6 +14,7 @@ This project analyzes customer shopping patterns to uncover insights such as pro
 Contains customer demographics, product details, purchase amounts, shipping type, review ratings, and behavioral indicators
 
 Source: Included in project repository
+
 
 🛠 Tools & Technologies
 
@@ -24,6 +27,7 @@ SQL Server Management Studio (SSMS) — database inspection & execution
 Power BI — dashboard visualization
 
 Git / GitHub — version control
+
 
 🔍 Steps Performed
 1. Data Loading & Inspection (Python)
@@ -95,6 +99,7 @@ Express shipping correlates with higher purchase amounts
 
 Highest-rated products cluster strongly in specific categories
 
+
 ▶️ How to Run
 Prerequisites
 
@@ -112,7 +117,6 @@ Install required Python packages
 
 pip install -r requirements.txt
 
-
 Open dataset in Python and run notebook for EDA
 
 Load cleaned data into MS SQL via provided script
@@ -120,6 +124,7 @@ Load cleaned data into MS SQL via provided script
 Execute SQL queries in SSMS
 
 Open Power BI file to view final dashboard
+
 
 👤 Author
 
