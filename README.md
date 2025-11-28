@@ -62,9 +62,9 @@ Subscription breakdown
 
 ## How to Run
 ### Prerequisites
--Python 3.11+
--MS SQL Server & SSMS
--Power BI Desktop
+- Python 3.11+
+- MS SQL Server & SSMS
+- Power BI Desktop
 
 ## Steps
 -Clone this repository
