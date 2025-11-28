@@ -4,17 +4,17 @@
 This project analyzes customer shopping patterns to uncover insights such as product popularity, revenue trends, customer segments, and subscription behavior. The workflow includes data processing in Python, analytical querying in MS SQL, and visualization through Power BI.
 
 ## Dataset
-3,900 rows
-18 columns
-Contains customer demographics, product details, purchase amounts, shipping type, review ratings, and behavioral indicators
-Source: Included in project repository
+-3,900 rows
+-18 columns
+-Contains customer demographics, product details, purchase amounts, shipping type, review ratings, and behavioral indicators
+-Source: Included in project repository
 
 ## Tools & Technologies
-Python (pandas, numpy) — data loading & cleaning
-MS SQL Server — analytical SQL queries
-SQL Server Management Studio (SSMS) — database inspection & execution
-Power BI — dashboard visualization
-Git / GitHub — version control
+-Python (pandas, numpy) — data loading & cleaning
+-MS SQL Server — analytical SQL queries
+-SQL Server Management Studio (SSMS) — database inspection & execution
+-Power BI — dashboard visualization
+-Git / GitHub — version control
 
 ## Steps Performed
 1. Data Loading & Inspection (Python)
@@ -53,28 +53,28 @@ Subscription breakdown
 
 
 ## Results & Insights
-Subscribers show higher overall spend behavior
-Some discount-driven products consistently perform well
-Certain age groups contribute significantly more revenue
-Express shipping correlates with higher purchase amounts
-Highest-rated products cluster strongly in specific categories
+-Subscribers show higher overall spend behavior
+-Some discount-driven products consistently perform well
+-Certain age groups contribute significantly more revenue
+-Express shipping correlates with higher purchase amounts
+-Highest-rated products cluster strongly in specific categories
 
 
 ## How to Run
-Prerequisites
-Python 3.11+
-MS SQL Server & SSMS
-Power BI Desktop
+### Prerequisites
+-Python 3.11+
+-MS SQL Server & SSMS
+-Power BI Desktop
 
 ## Steps
-Clone this repository
-Install required Python packages
-pip install -r requirements.txt
-Open dataset in Python and run notebook for EDA
-Load cleaned data into MS SQL via provided script
-Execute SQL queries in SSMS
-Open Power BI file to view final dashboard
+-Clone this repository
+-Install required Python packages
+-pip install -r requirements.txt
+-Open dataset in Python and run notebook for EDA
+-Load cleaned data into MS SQL via provided script
+-Execute SQL queries in SSMS
+-Open Power BI file to view final dashboard
 
 ## Author
-Neha Sonar
+**Neha Sonar**
 Data Analyst | Python | SQL | Power BI
