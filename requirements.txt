@@ -2,3 +2,4 @@ ipykernel
 pandas
 pyodbc
 sqlalchemy
+psycopg2-binary
